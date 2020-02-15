@@ -5,13 +5,13 @@ Versão Compativel 1.9.5-404-503 [Epic Game](https://www.epicgames.com/store/pt-
 
 # Como Instalar
 1º Localize a pasta do seu jogo, e abra a pasta chamada Localization. 
-![](https://ibb.co/sb2GsbW)
+![](https://i.imgur.com/EubLpRL.png)
 
 2º Faça uma copiar do seguinte arquivo: English_xml.pak antes de fazer a instalação da tradução. 
-![](https://ibb.co/fDT6bY1)
+![](https://i.imgur.com/VR7NbXF.png)
 
 3º Subistituar o arquivo English_xml.pak 
-![](https://ibb.co/Br8fNpd)
+![](https://i.imgur.com/iWGrX1t.png)
 
 4º Bom jogo ! Agradeçemos por baixar nossa tradução feita por fãs do jogo.
 ![](https://i.imgur.com/n1F3qOH.png)
