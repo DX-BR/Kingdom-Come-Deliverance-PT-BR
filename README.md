@@ -12,4 +12,4 @@ Versão Compativel 1.9.5-404-503 [Epic Game](https://www.epicgames.com/store/pt-
 
 4º Bom jogo ! Agradeçemos por baixar nossa tradução feita por fãs do jogo.
 
-![](https://i.imgur.com/FBBeMTt.png)
+![](https://i.imgur.com/SoJg65T.png)
