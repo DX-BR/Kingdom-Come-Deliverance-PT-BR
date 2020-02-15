@@ -8,7 +8,7 @@ Versão Compativel 1.9.5-404-503 [Epic Game](https://www.epicgames.com/store/pt-
 ![](https://i.imgur.com/EubLpRL.png)
 
 2º Faça uma copiar do seguinte arquivo: English_xml.pak antes de fazer a instalação da tradução. 
-![](https://i.imgur.com/VR7NbXF.png)
+![](https://i.imgur.com/3ecW39s.png)
 
 3º Subistituar o arquivo English_xml.pak 
 ![](https://i.imgur.com/iWGrX1t.png)
