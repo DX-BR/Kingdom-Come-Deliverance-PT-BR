@@ -1,4 +1,4 @@
-# Kingdom-Come-Deliverance-PT-BR
+# Kingdom Come Deliverance PT-BR Tradução
 
 Tradução para Kingdom Come Deliverance PT-BR
 Versão Compativel 1.9.5-404-503 [Epic Game](https://www.epicgames.com/store/pt-BR/product/kingdom-come-deliverance/home)  ou [Steam](https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/)
