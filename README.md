@@ -10,4 +10,4 @@ Versão Compativel 1.9.5-404-503 [Epic Game](https://www.epicgames.com/store/pt-
 
 3º Subistituar o arquivo English_xml.pak [Imagem](https://ibb.co/Br8fNpd)
 
-4º Bom jogo ! Agradeçemos por baixar nossa tradução feita por fans do jogo.
+4º Bom jogo ! Agradeçemos por baixar nossa tradução feita por fãs do jogo.
