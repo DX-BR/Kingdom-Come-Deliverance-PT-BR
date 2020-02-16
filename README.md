@@ -11,15 +11,25 @@ Status de tradução
 Arquivo, Total de Linhas, Status.
 
 text_rich_presence, 14, 100%
+
 text_ui_dialog, 66000,  2%
+
 text_ui_HUD, 4, 100%
+
 text_ui_ingame, 00, 00%
+
 text_ui_items, 3905, 0%
+
 text_ui_menus, 4579, 30%
+
 text_ui_minigames, 133, 0%
+
 text_ui_misc, 153, 0%
+
 text_ui_quest, 6318, 0%
+
 text_ui_soul, 1826, 0%
+
 text_ui_tutorials, 151, 1% 
 
 # Equipe
