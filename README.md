@@ -2,6 +2,8 @@
 
 Tradução para Kingdom Come Deliverance PT-BR
 Versão Compativel 1.9.5-404-503 [Epic Game](https://www.epicgames.com/store/pt-BR/product/kingdom-come-deliverance/home)  ou [Steam](https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/)
+
+[![PayPal](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C53V3V67APUYY&source=url) 
 Apoie nosso projeto: [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C53V3V67APUYY&source=url)
 # Tradução
 Atualmente a tradução encontra-se em desenvolvimento, ao longo da tradução vamos liberar o arquivo com algumas tradução já pronta, e com status de qual arquivo já foi traduzido e o que falta a tradução.
