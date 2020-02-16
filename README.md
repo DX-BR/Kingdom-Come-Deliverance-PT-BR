@@ -5,9 +5,9 @@ Versão Compativel 1.9.5-404-503 [Epic Game](https://www.epicgames.com/store/pt-
 
 Apoie nosso projeto faça doações: 
 
-[![PayPal - Faça doações](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C53V3V67APUYY&source=url)
+[[PayPal - Faça doações](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C53V3V67APUYY&source=url)
 
-[![Mercado Pago - Faça doações](https://i.imgur.com/0chDm9P.png)](https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=163964905-e12916e8-0699-4c01-a018-185d82b9fa64) 
+[[Mercado Pago - Faça doações](https://i.imgur.com/0chDm9P.png)](https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=163964905-e12916e8-0699-4c01-a018-185d82b9fa64) 
 
 # Tradução
 Atualmente a tradução encontra-se em desenvolvimento, ao longo da tradução vamos liberar o arquivo com algumas tradução já pronta, e com status de qual arquivo já foi traduzido e o que falta a tradução.
