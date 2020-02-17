@@ -15,7 +15,7 @@ Atualmente a tradução encontra-se em desenvolvimento, ao longo da tradução v
 
 Status de tradução
 ```
-Arquivo, Total de Linhas, Status
+Nome do arquivo, Total de Linhas, Status
 text_rich_presence, 14, 100%
 text_ui_dialog, 66000,  2%
 text_ui_HUD, 4, 100%
