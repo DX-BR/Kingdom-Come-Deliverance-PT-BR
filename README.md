@@ -14,9 +14,8 @@ Apoie nosso projeto faça doações:
 Atualmente a tradução encontra-se em desenvolvimento, ao longo da tradução vamos liberar o arquivo com algumas tradução já pronta, e com status de qual arquivo já foi traduzido e o que falta a tradução.
 
 Status de tradução
-
-Arquivo, Total de Linhas, Status.
 ```
+Arquivo, Total de Linhas, Status
 text_rich_presence, 14, 100%
 text_ui_dialog, 66000,  2%
 text_ui_HUD, 4, 100%
