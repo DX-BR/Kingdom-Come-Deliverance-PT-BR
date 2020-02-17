@@ -29,10 +29,8 @@ text_ui_soul, 1826, 0%
 text_ui_tutorials, 151, 1% 
 ```
 # Equipe
-```
-Nome, Cargo, Contato, Descrição.
-DXBR, Lider, DX#0612, Foi quem iniciou o projeto
-```
+DXBR: DaniloReis
+
 Você quer ajuda na tradução?
 mande uma mensagem para o discord DX#0612 para mas detalhes.
 # Como Instalar
