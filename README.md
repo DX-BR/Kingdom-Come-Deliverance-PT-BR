@@ -10,6 +10,8 @@ Apoie nosso projeto faça doações:
 
 # Mercado Pago - Faça doações [![Mercado Pago - Faça doações](https://i.imgur.com/0chDm9P.png)](https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=163964905-e12916e8-0699-4c01-a018-185d82b9fa64) 
 
+Nosso [Discord](https://discord.gg/YMAjVgu) para suporte e mais informaçôes
+
 # Tradução
 Atualmente a tradução encontra-se em desenvolvimento, ao longo da tradução vamos liberar o arquivo com algumas tradução já pronta, e com status de qual arquivo já foi traduzido e o que falta a tradução.
 
