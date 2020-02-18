@@ -17,7 +17,7 @@ Status de tradução
 ```
 Nome do arquivo, Total de Linhas, Status
 text_rich_presence, 14, 100%
-text_ui_dialog, 66000,  100% Precisa de Revisão
+text_ui_dialog, 66000,  00% 
 text_ui_HUD, 4, 100%
 text_ui_ingame, 783, 100%
 text_ui_items, 3905, 0%
