@@ -29,8 +29,10 @@ text_ui_soul, 1826, 25%
 text_ui_tutorials, 151, 1% 
 ```
 # Equipe
+```
 DX#0612
 Alessandro#7774
+```
 
 Você quer ajuda na tradução?
 mande uma mensagem para o discord DX#0612 para mas detalhes.
