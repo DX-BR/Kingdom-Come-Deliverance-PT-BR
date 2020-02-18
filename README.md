@@ -2,7 +2,7 @@
 
 Versão Compativel 1.9.5-404-503 [Epic Game](https://www.epicgames.com/store/pt-BR/product/kingdom-come-deliverance/home)  ou [Steam](https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/)
 
-# Tradução em 21% atual versão 0.21a 
+# Tradução em 21% atual versão 0.41a 
 
 Apoie nosso projeto faça doações: 
 
@@ -17,19 +17,20 @@ Status de tradução
 ```
 Nome do arquivo, Total de Linhas, Status
 text_rich_presence, 14, 100%
-text_ui_dialog, 66000,  2%
+text_ui_dialog, 66000,  100% Precisa de Revisão
 text_ui_HUD, 4, 100%
 text_ui_ingame, 783, 100%
 text_ui_items, 3905, 0%
-text_ui_menus, 4579, 30%
-text_ui_minigames, 133, 0%
-text_ui_misc, 153, 0%
+text_ui_menus, 4579, 35%
+text_ui_minigames, 133, 100%
+text_ui_misc, 153, 100%
 text_ui_quest, 6318, 0%
-text_ui_soul, 1826, 0%
+text_ui_soul, 1826, 25%
 text_ui_tutorials, 151, 1% 
 ```
 # Equipe
-DXBR: DaniloReis
+DX#0612
+Alessandro#7774
 
 Você quer ajuda na tradução?
 mande uma mensagem para o discord DX#0612 para mas detalhes.
@@ -46,3 +47,9 @@ mande uma mensagem para o discord DX#0612 para mas detalhes.
 4º Bom jogo ! Agradeçemos por baixar nossa tradução feita por fãs do jogo.
 ![](https://i.imgur.com/n1F3qOH.png)
 ![](https://i.imgur.com/6Gxbs9B.png)
+
+# Historico de Versão da tradução
+```
+Versão: 0.41a 17/02/2020
+Versão: 0.21a 16/02/2020
+```
