@@ -1,4 +1,4 @@
-# Kingdom Come Deliverance PT-BR Tradução
+# Tradução PT-BR para Kingdom Come Deliverance Projeto Argo
 
 Versão Compativel 1.9.5-404-503 [Epic Game](https://www.epicgames.com/store/pt-BR/product/kingdom-come-deliverance/home)  ou [Steam](https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/)
 
@@ -59,3 +59,5 @@ Versão: 0.42b 18/02/2020
 Versão: 0.41a 17/02/2020
 Versão: 0.21a 16/02/2020
 ```
+
+# Projeto Argo © 2020 Todos os direitos reservados.
