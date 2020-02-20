@@ -2,7 +2,7 @@
 
 Versão Compativel 1.9.5-404-503 [Epic Game](https://www.epicgames.com/store/pt-BR/product/kingdom-come-deliverance/home)  ou [Steam](https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/)
 
-# Tradução em 35% atual versão 0.42b 
+# Tradução em 37% atual versão 0.43a 
 
 Apoie nosso projeto faça doações: 
 
@@ -54,6 +54,7 @@ mande uma mensagem para o discord DX#0612 para mas detalhes.
 
 # Historico de Versão da tradução
 ```
+Versão: 0.43a 19/02/2020
 Versão: 0.42b 18/02/2020
 Versão: 0.41a 17/02/2020
 Versão: 0.21a 16/02/2020
