@@ -61,3 +61,4 @@ Versão: 0.21a 16/02/2020
 ```
 
 # Projeto Argo © 2020 Todos os direitos reservados.
+PARA CONTATO [DISCORD](https://discord.gg/YMAjVgu)
