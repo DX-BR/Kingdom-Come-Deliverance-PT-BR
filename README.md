@@ -49,8 +49,9 @@ mande uma mensagem para o discord DX#0612 para mas detalhes.
 ![](https://i.imgur.com/iWGrX1t.png)
 
 4º Bom jogo ! Agradeçemos por baixar nossa tradução feita por fãs do jogo.
-![](https://i.imgur.com/n1F3qOH.png)
-![](https://i.imgur.com/6Gxbs9B.png)
+![](https://i.imgur.com/Q37Hgx0.png)
+![](https://i.imgur.com/aqlSHNx.png)
+![](https://i.imgur.com/ct9QC2Z.png)
 
 # Historico de Versão da tradução
 ```
